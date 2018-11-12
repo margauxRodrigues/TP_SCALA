@@ -1,0 +1,557 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Preprocessor$.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Preprocessor.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Trainer$.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Trainer.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$10.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$11.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$12.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$13.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$14.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$15.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$2.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$3.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$4.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$5.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$6.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$7.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$8.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$9.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$main$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator11$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator15$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator19$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator3$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator7$1.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$.class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount.class
+binary dependencies:
+16 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> /home/margaux/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /home/margaux/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /home/margaux/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> com.sparkProject.Preprocessor
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> com.sparkProject.Preprocessor$
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> com.sparkProject.Trainer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> com.sparkProject.Trainer$
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$10
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$11
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$12
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$13
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$14
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$15
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$3
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$4
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$5
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$6
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$7
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$8
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$9
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$anonfun$main$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$typecreator11$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$typecreator15$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$typecreator19$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$typecreator3$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com.sparkProject.WordCount$$typecreator7$1
+used names:
+368 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> ->
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> <init>
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> <repeated>
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> A
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Any
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> AnyRef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Array
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> ArrowAssoc
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> B
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Builder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Map
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Nothing
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Object
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Predef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Preprocessor
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> SparkConf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> SparkSession
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> String
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Traversable
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Tuple2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> Unit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> apache
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> appName
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> apply
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> builder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> com
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> conf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> config
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> getOrCreate
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> org
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> package
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> println
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> scala
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> setAll
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> spark
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> sparkProject
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> sql
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> !=
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> &&
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> +
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ->
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> <init>
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> <repeated>
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ==
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> A
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Any
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> AnyRef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Array
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ArrowAssoc
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> B
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Boolean
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Builder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ClassTag
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> CountVectorizer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> DataFrame
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> DataFrameReader
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Dataset
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Double
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> DoubleParam
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Estimator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Evaluator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> IDF
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> IndexedSeq
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Int
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> List
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> LogisticRegression
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Long
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> MLWriter
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Map
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> MatchError
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> MulticlassClassificationEvaluator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Nothing
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> NumericRange
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Object
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> OneHotEncoder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Option
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ParamGridBuilder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ParamMap
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Partial
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Pipeline
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> PipelineStage
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Predef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Range
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> RegexTokenizer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> RelationalGroupedDataset
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> RichDouble
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Row
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> SparkConf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> SparkSession
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> StopWordsRemover
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> String
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> StringIndexer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> T
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> T1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> T2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> TrainValidationSplit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> TrainValidationSplitModel
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Trainer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Traversable
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Tuple2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> Unit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> VectorAssembler
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> _$1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> _$2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> _$7
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> _1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> _2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> addGrid
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> apache
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> appName
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> apply
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> assembler
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> build
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> builder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> by
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> classification
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> colSelected
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> com
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> conf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> config
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> count
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> country_encoder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> country_indexer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> currency_encoder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> currency_indexer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> cvModel
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> data
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> df_WithPredictions
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> doubleWrapper
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> evaluate
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> evaluation
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> f1Evaluator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> f1Score
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> feature
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> fit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> get
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> getOrCreate
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> groupBy
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> idf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> immutable
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> isEmpty
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> lengthCompare
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> lr
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> materializeClassTag
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> minDF
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> ml
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> model_opt
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> org
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> overwrite
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> package
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> paramGrid
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> parquet
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> pipeline
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> println
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> randomSplit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> read
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> regParam
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> remover
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> save
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> scala
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setAll
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setElasticNetParam
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setEstimator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setEstimatorParamMaps
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setEvaluator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setFeaturesCol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setFitIntercept
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setGaps
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setHandleInvalid
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setInputCol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setInputCols
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setLabelCol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setMaxIter
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setMetricName
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setOutputCol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setPattern
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setPredictionCol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setRawPredictionCol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setSeed
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setStages
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setStandardization
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setTol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> setTrainRatio
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> show
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> spark
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> sparkProject
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> sql
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> test
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> to
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> toArray
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> tokenizer
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> trainValidationSplit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> training
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> transform
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> tuning
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> unapplySeq
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> unary_!
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> unchecked
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> write
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $m
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $m$untyped
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $typecreator11
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $typecreator15
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $typecreator19
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $typecreator3
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $typecreator7
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> $u
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> +
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ->
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> <init>
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> <repeated>
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ?0
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> A
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Any
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> AnyRef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Array
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ArrayOps
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ArrowAssoc
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> B
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Boolean
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Builder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Class
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ClassLoader
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ClassSymbol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ClassTag
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Column
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ColumnName
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> DataFrame
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> DataFrameReader
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Dataset
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> DatasetHolder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Encoder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Function1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Function2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Int
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Internal
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> JavaUniverse
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> K
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> List
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Map
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> MatchError
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Mirror
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ModuleSymbol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Nil
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Nothing
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Object
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Ordering
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> PairRDDFunctions
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Predef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Product
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> RDD
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ReificationSupportApi
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> RelationalGroupedDataset
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Row
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> SingleType
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Singleton
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> SparkConf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> SparkContext
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> SparkSession
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> String
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> StringContext
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> StringToColumn
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Symbol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> T
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> T0
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> T1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> T2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ThisType
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Traversable
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> TraversableOnce
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Tuple2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Type
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> TypeCreator
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> TypeRef
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> TypeSymbol
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> TypeTag
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> U
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Unit
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> Universe
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> V
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> WordCount
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> _$7
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> _1
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> _2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> agg
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> apache
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> appName
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> apply
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> as
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> asInstanceOf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> asModule
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> asType
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> builder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> collection
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> com
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> conf
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> config
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> count
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> desc
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df2
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df_grouped
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df_lower
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df_wordCount
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df_wordCount_light
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df_wordCount_lighter
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> df_wordCount_lightest
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> explode
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> flatMap
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> foreach
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> functions
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> getClass
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> getClassLoader
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> getOrCreate
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> groupBy
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> i
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> immutable
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> implicits
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> internal
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> j
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> line
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> lower
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> map
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> materializeClassTag
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> materializeTypeTag
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> math
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> moduleClass
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> ne
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> newProductEncoder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> orderBy
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> org
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> package
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> println
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> rdd
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> rddToDatasetHolder
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> rddToPairRDDFunctions
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> read
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> reduceByKey
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> refArrayOps
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> reflect
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> reificationSupport
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> runtime
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> runtimeMirror
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> sc
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> scala
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> select
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> selectType
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> setAll
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> show
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> spark
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> sparkContext
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> sparkProject
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> split
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> sql
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> staticClass
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> staticModule
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> staticPackage
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> sum
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> take
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> text
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> textFile
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> toDF
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> toTypeConstructor
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> universe
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> withColumn
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> word
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> wordCount
+product stamps:
+27 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Preprocessor$.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Preprocessor.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Trainer$.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/Trainer.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$10.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$11.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$12.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$13.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$14.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$15.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$2.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$3.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$4.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$5.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$6.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$7.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$8.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$9.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$anonfun$main$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator11$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator15$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator19$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator3$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$$typecreator7$1.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount$.class -> lastModified(1542044021000)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/target/scala-2.11/classes/com/sparkProject/WordCount.class -> lastModified(1542044021000)
+source stamps:
+3 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> hash(073a748bcd9a23c81b4005e64602edec22dc6d87)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> hash(4db87a553ec3f50b524b1a47297a2ba62a759f1b)
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> hash(919746e529413019e29e713001e397f46b673171)
+binary stamps:
+7 items
+/home/margaux/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar -> lastModified(1498869487000)
+/home/margaux/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar -> lastModified(1498869279000)
+/home/margaux/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.0.jar -> lastModified(1498869708000)
+/home/margaux/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> lastModified(1498869654000)
+/home/margaux/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/margaux/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1537629852000)
+class names:
+7 items
+/home/margaux/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar -> org.apache.spark.sql.Row
+/home/margaux/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar -> org.apache.spark.SparkConf
+/home/margaux/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.0.jar -> org.apache.spark.ml.tuning.TrainValidationSplitModel
+/home/margaux/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> org.apache.spark.sql.Column
+/home/margaux/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.MatchError
+/home/margaux/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBM989AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwiEzH0nQABm5vdGlmeXNxAH4ADEYY1K90AAR3YWl0c3EAfgAMcSwJo3QADSRhc0luc3RhbmNlT2ZzcQB+AAyepsJGdAAGZXF1YWxzc3EAfgAMzafi93QADGFzSW5zdGFuY2VPZnNxAH4ADDy21wF0AAxzeW5jaHJvbml6ZWRzcQB+AAwVWw6rdAANJGlzSW5zdGFuY2VPZnNxAH4ADH/AcuN0AAxQcmVwcm9jZXNzb3JzcQB+AAwmZrT1dAAEbWFpbnNxAH4ADCDAaSp0AAlub3RpZnlBbGxzcQB+AAykGPx6dAAMaXNJbnN0YW5jZU9mc3EAfgAMhOJwg3QAAj09c3EAfgAMXUvhyXQABWNsb25lc3EAfgAMbWgmfXQACHRvU3RyaW5nc3EAfgAMaC09+3QAAiE9c3EAfgAMeyFerXQACGdldENsYXNzc3EAfgAMZlDDhHQAAm5lc3EAfgAM4AF1iXQAAmVxc3EAfgAMiloHy3QAAiMjc3EAfgAMnRhqBnQACGZpbmFsaXplc3EAfgAM32l4/3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHWNvbS5zcGFya1Byb2plY3QuUHJlcHJvY2Vzc29ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGNvbS5zcGFya1Byb2plY3RzcQB+AKZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWcI/DGPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9ob21lL21hcmdhdXgvQnVyZWF1L1RQX1BhcmlzVGVjaF8yMDE3XzIwMThfc3RhcnRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUBzp0i82aI8gbQAXmRgLt7CLcbYc=
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQaNmpwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtRYU7nQABm5vdGlmeXNxAH4ADBs4m3R0AAR3YWl0c3EAfgAMB008m3QADSRhc0luc3RhbmNlT2ZzcQB+AAwaP17EdAAGZXF1YWxzc3EAfgAMbbk8aHQADGFzSW5zdGFuY2VPZnNxAH4ADA0t88d0AAxzeW5jaHJvbml6ZWRzcQB+AAxUHr6JdAANJGlzSW5zdGFuY2VPZnNxAH4ADK+ZQkx0AARtYWluc3EAfgAMJ9oCSHQACW5vdGlmeUFsbHNxAH4ADB/HHyF0AAxpc0luc3RhbmNlT2ZzcQB+AAy/SlUxdAACPT1zcQB+AAw/ZbmMdAAFY2xvbmVzcQB+AAxQWmXddAAIdG9TdHJpbmdzcQB+AAwtQzQUdAACIT1zcQB+AAw23foPdAAIZ2V0Q2xhc3NzcQB+AAxtxEb1dAAHVHJhaW5lcnNxAH4ADNN3PkZ0AAJuZXNxAH4ADNTzLuF0AAJlcXNxAH4ADCW5W0Z0AAIjI3NxAH4ADN1LeXh0AAhmaW5hbGl6ZXNxAH4ADL5im7J0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABhjb20uc3BhcmtQcm9qZWN0LlRyYWluZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAQY29tLnNwYXJrUHJvamVjdHNxAH4ApnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZwj8MY91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNL2hvbWUvbWFyZ2F1eC9CdXJlYXUvVFBfUGFyaXNUZWNoXzIwMTdfMjAxOF9zdGFydGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRNuHpVPsP1C1JLGkcpeiumKnWfGw==
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGNwZLQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+M00n3QABm5vdGlmeXNxAH4ADM29WaR0AAR3YWl0c3EAfgAMBI6A93QADSRhc0luc3RhbmNlT2ZzcQB+AAwqKqfndAAGZXF1YWxzc3EAfgAMwE2vynQADGFzSW5zdGFuY2VPZnNxAH4ADFEePcx0AAxzeW5jaHJvbml6ZWRzcQB+AAzFfIbbdAANJGlzSW5zdGFuY2VPZnNxAH4ADHNfOsZ0AARtYWluc3EAfgAMKv4YJHQACVdvcmRDb3VudHNxAH4ADMsDHFh0AAlub3RpZnlBbGxzcQB+AAzrrNtKdAAMaXNJbnN0YW5jZU9mc3EAfgAMA+F4/nQAAj09c3EAfgAMa+7IxnQABWNsb25lc3EAfgAMxad433QACHRvU3RyaW5nc3EAfgAMKfLsIHQAAiE9c3EAfgAMtDL1ynQACGdldENsYXNzc3EAfgAMWtsNYnQAAm5lc3EAfgAMW4zKJ3QAAmVxc3EAfgAMvMwN13QAAiMjc3EAfgAMUs+LrnQACGZpbmFsaXplc3EAfgAM4jK2bnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmNvbS5zcGFya1Byb2plY3QuV29yZENvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGNvbS5zcGFya1Byb2plY3RzcQB+AKZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWcI/DGPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9ob21lL21hcmdhdXgvQnVyZWF1L1RQX1BhcmlzVGVjaF8yMDE3XzIwMThfc3RhcnRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkZdG5SlBMBninnEwAeOX9GtnMXE=
+external apis:
+0 items
+source infos:
+3 items
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Preprocessor.scala -> 
+AAAAAAAAAAA=
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/Trainer.scala -> 
+AAAAAAAAAAA=
+/home/margaux/Bureau/TP_ParisTech_2017_2018_starter/src/main/scala/com/sparkProject/WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZwjxbZJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL21hcmdhdXgvQnVyZWF1L1RQX1BhcmlzVGVjaF8yMDE3XzIwMThfc3RhcnRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZwjzaP51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL21hcmdhdXgvQnVyZWF1L1RQX1BhcmlzVGVjaF8yMDE3XzIwMThfc3RhcnRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZwj8MY91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL21hcmdhdXgvQnVyZWF1L1RQX1BhcmlzVGVjaF8yMDE3XzIwMThfc3RhcnRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
