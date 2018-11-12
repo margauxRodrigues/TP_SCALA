@@ -41,7 +41,7 @@ object Trainer {
       * *******************************************************************************/
 
     // lire le fichier parquet
-    val data = spark.read.parquet("/home/margaux/Documents/Cours/Intro_Hadoop/guided_project/TP_ParisTech_2017_2018_starter/prepared_trainingset")
+    val data = spark.read.parquet("prepared_trainingset")
 
     // Stage 1 : tokenizer
     val tokenizer = new RegexTokenizer()
@@ -153,7 +153,7 @@ object Trainer {
     val f1Score = f1Evaluator.evaluate(df_WithPredictions)
     println("F1 score is " + f1Score)
 
-    model_opt.write.overwrite().save("/home/margaux/Documents/Cours/Intro_Hadoop/guided_project/TP_ParisTech_2017_2018_starter/model/")
+    model_opt.write.overwrite().save("model/")
 
   }
 }
